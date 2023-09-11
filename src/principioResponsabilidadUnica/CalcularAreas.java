@@ -1,6 +1,6 @@
 package principioResponsabilidadUnica;
 
-public class Main {
+public class CalcularAreas {
     public static void main(String[] args) {
 
         // Crear instancias de Circulo y Rectangulo
